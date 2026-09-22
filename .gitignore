@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Go
+/go-wallet/wallet-lab
+/go-wallet/go-wallet
+
+# Env / local overrides
+.env
+*.local
+
+# OS
+.DS_Store
